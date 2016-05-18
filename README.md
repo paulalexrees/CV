@@ -2,6 +2,10 @@
 
 I am a Junior Web Developer, recently graduated from Makers Academy. The past 3 months have fuelled my enthusiasm for code creation and design. Looking for somewhere I can test this knowledge and learn a whole lot more in a fun and inspiring environment.
 
+*Better version:*
+
+An
+
 ## Skills
 
 #### Full Stack Development
@@ -13,6 +17,14 @@ I am a Junior Web Developer, recently graduated from Makers Academy. The past 3 
 - A frank but fun pair partner
 - Deconstructing problems to get to the root of them
 - Finding challenging new ideas to implement into whatever I'm doing to always keep me thinking
+
+#### Learning?
+
+*Add learning stuff here?*
+
+#### Dealing with things
+
+- I hate panicking, so I try very hard not to. My career in live events gave me an unfazeability 
 
 #### Another Skill - Do I need more stuff here?
 
@@ -52,11 +64,15 @@ Project Name | Description | Technologies | Testing
 **Feltech, on site at the Royal Society of Arts** (September 2015 to January 2016)    
 Senior Events Technician
 
+*Add relevant qualities of job - disasters, unflappable etc*
+
 **ElectroSonic, on site at Barclays Head Office** (March 2013 to September 2015)   
 Audiovisual Events Technician
+
+*Add relevant qualities of job - corporate delivery etc*
 
 #### Other stuff about me
 
 - Once upon a time taught myself iOS development as a hobby
 - Can and will play the blues for an irritating length of time
--
+- Have had my hand in Sir David Attenborough's pocket
