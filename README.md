@@ -8,7 +8,7 @@ I like to know how everything works, and use that knowledge to formulate ideas f
 
 ## Skills
 
-#### Full Stack Development
+##### Full Stack Development
 
 - Keen for clean, readable code
 - Reliable code using Test-Driven Development
@@ -17,42 +17,46 @@ I like to know how everything works, and use that knowledge to formulate ideas f
 - Deconstructing problems to get to the root of them
 - Finding challenging new ideas to implement into whatever I'm doing to always keep me thinking
 
-#### Learning Things
+##### Learning Things
 
 - Learnt Ruby and Javascript and accompanying test frameworks over the course of 12 weeks.
 - Quick learner of other OO languages thanks to the practices taught at Makers Academy.
 
-#### Dealing With Things
+##### Dealing With Things
 
 - I hate panicking, so I try very hard not to. My career in live events gave me a degree of unflappability that allows me to remain calm in problematic situations and to address them methodically.
 - I like to know what I'm getting myself in for when attempting new things, whether it be 'spiking' a test version or simply reading tutorials and example code - I like to be well informed.
 
-## Development Experience
-
-#### VocApp Prototype (July 2016 to September 2016)
-[github repo](https://github.com/empowerhack/vocapp) | [heroku deployment](http://vocabulary-app.herokuapp.com)
-
-- A project with 3 other Makers graduates building the prototype of an app for [empowerhack.io](http://empowerhack.io)
-- A crowd-sourced, translation-style app geared towards helping foreign students understand academic terminology in English.
-- Build and tested using Ruby on Rails
-- ***MENTION ACTIVERECORD/SQL***
-
+## Education
 
 #### Makers Academy (February 2016 to May 2016)
 
 - A 12-week intensive course focusing on OOP, TDD, pair programming and good coding practices
 - Studied primarily Ruby and Javascript
-- Branched in Rails, Angular.js and Node.js
+- Branched into Rails, Angular.js and Node.js
 - Testing frameworks included RSpec, Jasmine and Mocha
 - 3 group projects using agile methodologies such as daily stand up and retrospective sessions, pair programming and git flow
-
-## Education
 
 #### University of Hertfordshire (2005 to 2008)
 
 - BSc in Sound Design Technology, 2:1
 - Built a basic game in Java
 - One module using MAX/MSP for audio programming
+
+## Notable projects
+
+<!-- #### VocApp Prototype (July 2016 to September 2016)
+[github repo](https://github.com/empowerhack/vocapp) | [heroku deployment](http://vocabulary-app.herokuapp.com)
+
+- A project with 3 other Makers graduates building the prototype of an app for [empowerhack.io](http://empowerhack.io)
+- A crowd-sourced, translation-style app geared towards helping foreign students understand academic terminology in English.
+- Build and tested using Ruby on Rails
+- ActiveRecord PostgreSQL database -->
+
+Title|Description|Technologies|Links
+--- | --- | --- | ---
+VocApp Prototype<br>(July - Sept '16)| A crowd-sourced, translation-style app geared towards helping foreign students understand academic terminology in English.|Ruby on Rails<br>ActiveRecord<br>RSpec|[GitHub repo](https://github.com/empowerhack/vocapp)<br>[Heroku deployment](http://vocabulary-app.herokuapp.com)
+cinemascrAPI<br>Sept '16 - ongoing|An API returning local cinema information by scraping Google Movies. Focus on building a test-driven, versioned and robust API.|Ruby on Rails<br>RSpec<br>Nokogiri/Mechanize|[GitHub repo](https://github.com/rhiannonruth/cinemascrAPI)
 
 ## Employment Experience
 
@@ -65,13 +69,6 @@ Half of a team of 2 responsible for the AV for the RSA's internal and external e
 Audiovisual Events Technician
 
 Part of the team responsible for running the AV side of Barclays' in-house presentations, broadcasts and events. An intense, often fast-paced role requiring me to adapt to changing situations quickly.
-
-## Code Examples
-
-Project Name | Description | Technologies | Testing
---- | --- | --- | ---
-[SocialCow](https://github.com/paulalexrees/social-calendar)|A social calendar with the aim of reducing organisational admin |PEAN stack - PostgreSQL, Express.js, Angular.js, Node.js|Protractor, Karma, Mocha
-[Bandaoke](https://github.com/paulalexrees/bandaoke)|A web application for forming an impromptu karaoke band|Angular.js, Ruby on Sinatra|Protractor, RSpec
 
 #### Other stuff about me
 
